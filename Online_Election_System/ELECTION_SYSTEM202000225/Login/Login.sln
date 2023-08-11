@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login", "Login\Login.csproj", "{1DADCB9C-86E9-4322-B820-B3C1734B0314}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VotesSystemSetup", "..\..\..\..\Project Setup Edition\VotesSystemSetup\VotesSystemSetup\VotesSystemSetup.vdproj", "{E3710B17-E260-4842-8432-61FA666015E7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VotesSystem2020", "..\..\..\..\Project Setup Edition\VotesSystem2020\VotesSystem2020.vdproj", "{CAE8B6CA-D083-4B7B-93BD-6087B86D211A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DADCB9C-86E9-4322-B820-B3C1734B0314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DADCB9C-86E9-4322-B820-B3C1734B0314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DADCB9C-86E9-4322-B820-B3C1734B0314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DADCB9C-86E9-4322-B820-B3C1734B0314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3710B17-E260-4842-8432-61FA666015E7}.Debug|Any CPU.ActiveCfg = Debug
+		{E3710B17-E260-4842-8432-61FA666015E7}.Release|Any CPU.ActiveCfg = Release
+		{CAE8B6CA-D083-4B7B-93BD-6087B86D211A}.Debug|Any CPU.ActiveCfg = Debug
+		{CAE8B6CA-D083-4B7B-93BD-6087B86D211A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

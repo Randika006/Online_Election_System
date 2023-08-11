@@ -1,0 +1,794 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1DADCB9C-86E9-4322-B820-B3C1734B0314}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Login</RootNamespace>
+    <AssemblyName>Login</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Apeal_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apeal_Details.Designer.cs">
+      <DependentUpon>Apeal_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Assistance_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Assistance_Details.Designer.cs">
+      <DependentUpon>Assistance_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Candidate_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Candidate_Details.Designer.cs">
+      <DependentUpon>Candidate_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Change Commitioner Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Change Commitioner Password.Designer.cs">
+      <DependentUpon>Change Commitioner Password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Change_Apeal_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Change_Apeal_Details.Designer.cs">
+      <DependentUpon>Change_Apeal_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Change_Counting_Officer_Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Change_Counting_Officer_Password.Designer.cs">
+      <DependentUpon>Change_Counting_Officer_Password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Change_Final_Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Change_Final_Result.Designer.cs">
+      <DependentUpon>Change_Final_Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Change_Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Change_Password.Designer.cs">
+      <DependentUpon>Change_Password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Change_Password_District_Officer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Change_Password_District_Officer.Designer.cs">
+      <DependentUpon>Change_Password_District_Officer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Change_Returning_Officer_Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Change_Returning_Officer_Password.Designer.cs">
+      <DependentUpon>Change_Returning_Officer_Password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Commisioner Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Commisioner Details.Designer.cs">
+      <DependentUpon>Commisioner Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Commissioner Control Panel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Commissioner Control Panel.Designer.cs">
+      <DependentUpon>Commissioner Control Panel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control_Pannel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Control_Pannel.Designer.cs">
+      <DependentUpon>Control_Pannel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Counting_Officer_Control_Pannel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Counting_Officer_Control_Pannel.Designer.cs">
+      <DependentUpon>Counting_Officer_Control_Pannel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Counting_Officer_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Counting_Officer_Details.Designer.cs">
+      <DependentUpon>Counting_Officer_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="District_Sectotarial_Control_Pannel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="District_Sectotarial_Control_Pannel.Designer.cs">
+      <DependentUpon>District_Sectotarial_Control_Pannel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="District_Sectotarial_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="District_Sectotarial_Details.Designer.cs">
+      <DependentUpon>District_Sectotarial_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Final Data.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Final Data.Designer.cs">
+      <DependentUpon>Final Data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Final Graph.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Final Graph.Designer.cs">
+      <DependentUpon>Final Graph.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Final_Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Final_Result.Designer.cs">
+      <DependentUpon>Final_Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Generated Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Generated Report.Designer.cs">
+      <DependentUpon>Generated Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Grama_niladhari_control_pannel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Grama_niladhari_control_pannel.Designer.cs">
+      <DependentUpon>Grama_niladhari_control_pannel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Grama_Niladhari_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Grama_Niladhari_Details.Designer.cs">
+      <DependentUpon>Grama_Niladhari_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Last Years Result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Last Years Result.Designer.cs">
+      <DependentUpon>Last Years Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Meadia_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Meadia_Details.Designer.cs">
+      <DependentUpon>Meadia_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Metro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Metro.Designer.cs">
+      <DependentUpon>Metro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="National_List_Seat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="National_List_Seat.Designer.cs">
+      <DependentUpon>National_List_Seat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Partys.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Partys.Designer.cs">
+      <DependentUpon>Partys.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Provincal_Legislate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Provincal_Legislate.Designer.cs">
+      <DependentUpon>Provincal_Legislate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Regional_List_Seat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Regional_List_Seat.Designer.cs">
+      <DependentUpon>Regional_List_Seat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Returning_Officer_Control_Pannel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Returning_Officer_Control_Pannel.Designer.cs">
+      <DependentUpon>Returning_Officer_Control_Pannel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Returning_Officer_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Returning_Officer_Details.Designer.cs">
+      <DependentUpon>Returning_Officer_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Show_Report_Data.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Show_Report_Data.Designer.cs">
+      <DependentUpon>Show_Report_Data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Support the report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Support the report.Designer.cs">
+      <DependentUpon>Support the report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="The Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="The Report.Designer.cs">
+      <DependentUpon>The Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="voter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="voter.Designer.cs">
+      <DependentUpon>voter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VotesSystemDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VotesSystemDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="VotesSystemDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VotesSystemDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="VotesSystemDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VotesSystemDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="VotesSystemDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VotesSystemDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="VotesSystemDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VotesSystemDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="VotesSystemDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VotesSystemDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Wacher_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Wacher_Details.Designer.cs">
+      <DependentUpon>Wacher_Details.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Apeal_Details.resx">
+      <DependentUpon>Apeal_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Assistance_Details.resx">
+      <DependentUpon>Assistance_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Candidate_Details.resx">
+      <DependentUpon>Candidate_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Change Commitioner Password.resx">
+      <DependentUpon>Change Commitioner Password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Change_Apeal_Details.resx">
+      <DependentUpon>Change_Apeal_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Change_Counting_Officer_Password.resx">
+      <DependentUpon>Change_Counting_Officer_Password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Change_Final_Result.resx">
+      <DependentUpon>Change_Final_Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Change_Password.resx">
+      <DependentUpon>Change_Password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Change_Password_District_Officer.resx">
+      <DependentUpon>Change_Password_District_Officer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Change_Returning_Officer_Password.resx">
+      <DependentUpon>Change_Returning_Officer_Password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Commisioner Details.resx">
+      <DependentUpon>Commisioner Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Commissioner Control Panel.resx">
+      <DependentUpon>Commissioner Control Panel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control_Pannel.resx">
+      <DependentUpon>Control_Pannel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Counting_Officer_Control_Pannel.resx">
+      <DependentUpon>Counting_Officer_Control_Pannel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Counting_Officer_Details.resx">
+      <DependentUpon>Counting_Officer_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="District_Sectotarial_Control_Pannel.resx">
+      <DependentUpon>District_Sectotarial_Control_Pannel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="District_Sectotarial_Details.resx">
+      <DependentUpon>District_Sectotarial_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Final Data.resx">
+      <DependentUpon>Final Data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Final Graph.resx">
+      <DependentUpon>Final Graph.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Final_Result.resx">
+      <DependentUpon>Final_Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Generated Report.resx">
+      <DependentUpon>Generated Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Grama_niladhari_control_pannel.resx">
+      <DependentUpon>Grama_niladhari_control_pannel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Grama_Niladhari_Details.resx">
+      <DependentUpon>Grama_Niladhari_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Last Years Result.resx">
+      <DependentUpon>Last Years Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Meadia_Details.resx">
+      <DependentUpon>Meadia_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Metro.resx">
+      <DependentUpon>Metro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="National_List_Seat.resx">
+      <DependentUpon>National_List_Seat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Partys.resx">
+      <DependentUpon>Partys.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Provincal_Legislate.resx">
+      <DependentUpon>Provincal_Legislate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Regional_List_Seat.resx">
+      <DependentUpon>Regional_List_Seat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Returning_Officer_Control_Pannel.resx">
+      <DependentUpon>Returning_Officer_Control_Pannel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Returning_Officer_Details.resx">
+      <DependentUpon>Returning_Officer_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Show_Report_Data.resx">
+      <DependentUpon>Show_Report_Data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Support the report.resx">
+      <DependentUpon>Support the report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="The Report.resx">
+      <DependentUpon>The Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="voter.resx">
+      <DependentUpon>voter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wacher_Details.resx">
+      <DependentUpon>Wacher_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="VotesSystemDataSet.xsc">
+      <DependentUpon>VotesSystemDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="VotesSystemDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>VotesSystemDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="VotesSystemDataSet.xss">
+      <DependentUpon>VotesSystemDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="VotesSystemDataSet1.xsc">
+      <DependentUpon>VotesSystemDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="VotesSystemDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>VotesSystemDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="VotesSystemDataSet1.xss">
+      <DependentUpon>VotesSystemDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="VotesSystemDataSet2.xsc">
+      <DependentUpon>VotesSystemDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="VotesSystemDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>VotesSystemDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="VotesSystemDataSet2.xss">
+      <DependentUpon>VotesSystemDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="VotesSystemDataSet3.xsc">
+      <DependentUpon>VotesSystemDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="VotesSystemDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>VotesSystemDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="VotesSystemDataSet3.xss">
+      <DependentUpon>VotesSystemDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="VotesSystemDataSet4.xsc">
+      <DependentUpon>VotesSystemDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="VotesSystemDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>VotesSystemDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="VotesSystemDataSet4.xss">
+      <DependentUpon>VotesSystemDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="VotesSystemDataSet5.xsc">
+      <DependentUpon>VotesSystemDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="VotesSystemDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>VotesSystemDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="VotesSystemDataSet5.xss">
+      <DependentUpon>VotesSystemDataSet5.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abstract-blurred-color-background-modern-screen-vector-22641570.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Flexible-Poll.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxresdefault.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shutterstock_234376006.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chams-VOTA-evoting.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ElectionSecurityBrief-1024x683.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\votinghelp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0_YttX5wOnhrsZ64Nj.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Boule-Launch-ICO-with-Alpha-of-Blockchain-Technology.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\National People Front.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sri Lanka Podujana Paramuna.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sri Lanka Freedom Party2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sri Lanka Freedom Party3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UNP %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UNP.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unp-logo250x164.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UNP-31.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\composs.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\swan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Democrasy Party.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\National People Front1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ballot-vote-1698x849.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ballot-vote-1698x8491.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed %281%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\80455763-the-arcade-independence-square-is-a-building-complex-in-the-center-of-colombo-sri-lanka.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ballot-vote-1698x8492.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\National People Front2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %282%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new 50193671-光青冬背景低ポリ.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\36610286-login-form-menu-with-simple-line-icons-blurred-background-website-element-for-your-web-design-.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\esy-042493698.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3d2de4457ffd1dc770590857a87d4acf.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-simple-business-creative-lines-background-file-posterh5-pagemural-image_50007.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-fresh-and-simple-h5-background-app-guide-page-design-background-download-image_121781.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\change-login-screen-background-windows-10.1280x600.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %287%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\digital-voting-challenge-featured-1024x672.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Engineering-Students-Win-First-Place-in-Hexathon-for-Blockchain-based-Online-Voting-System-Project.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6e260481-ccc4-4164-be25-a9aa3a091ebe_688x382%402x.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %288%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\46aDYxXBiWnF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %288%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1_qwNX8NAWDjyujNItVeK2tQ.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxresdefault1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stockholm-sweden-august-party-ballot-cards-voting-swedish-general-election-scheduled-september-sweden-voting-system-125256488.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\39948204_520476991735004_1131120843317837824_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %289%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vote-key.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\National People Front3.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3d2de4457ffd1dc770590857a87d4acf1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arcade.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login-form.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login-form1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Animation3.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Animation6.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %2810%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Animation4.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Animation2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Animation1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Animation31.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Animation61.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chart.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chart1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Scope-of-data-analysis-booming-in-India-1000x600.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %2811%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PoliticalFantasticBluebottle-size_restricted.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images233.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1b3a5d5fdeb16de98fa66783350b18fb.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GRAPHICS.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHART11.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Analayse.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GRAPHICS1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1b3a5d5fdeb16de98fa66783350b18fb1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Master.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Animation21.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Animation11.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\National People Front4.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGIN.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Data_Servers_Art_AE_Ready.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giphy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue_style.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MYGraphics.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\data-science.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHART111.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Analayse1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\source %281%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tupel.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

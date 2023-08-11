@@ -1,0 +1,791 @@
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM\Login\Login\bin\Debug\Login.exe.config
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM\Login\Login\obj\Debug\Login.Form1.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM\Login\Login\bin\Debug\Login.exe
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM\Login\Login\bin\Debug\Login.pdb
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM\Login\Login\obj\Debug\Login.Control_Pannel.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM\Login\Login\obj\Debug\Login.exe
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM\Login\Login\obj\Debug\Login.pdb
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM\Login\Login\obj\Debug\Login.Grama_Niladhari_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM\Login\Login\obj\Debug\Login.Grama_niladhari_control_pannel.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM\Login\Login\obj\Debug\Login.Change_Password.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM\Login\Login\obj\Debug\Login.Voter_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM\Login\Login\obj\Debug\Login.Assistance_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM\Login\Login\obj\Debug\Login.District_Sectotarial_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190525 - Copy\Login\Login\bin\Debug\Login.exe.config
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190525 - Copy\Login\Login\obj\Debug\Login.exe
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190525 - Copy\Login\Login\obj\Debug\Login.pdb
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190525 - Copy\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190525 - Copy\Login\Login\obj\Debug\Login.Assistance_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190525 - Copy\Login\Login\obj\Debug\Login.Change_Password.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190525 - Copy\Login\Login\obj\Debug\Login.Control_Pannel.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190525 - Copy\Login\Login\obj\Debug\Login.District_Sectotarial_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190525 - Copy\Login\Login\obj\Debug\Login.Form1.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190525 - Copy\Login\Login\obj\Debug\Login.Grama_niladhari_control_pannel.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190525 - Copy\Login\Login\obj\Debug\Login.Grama_Niladhari_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190525 - Copy\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190525 - Copy\Login\Login\obj\Debug\Login.Voter_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190525 - Copy\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190525 - Copy\Login\Login\bin\Debug\Login.exe
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190525 - Copy\Login\Login\bin\Debug\Login.pdb
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190525 - Copy\Login\Login\obj\Debug\Login.Apeal_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190525 - Copy\Login\Login\obj\Debug\Login.Change_Apeal_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy1\Login\Login\bin\Debug\Login.exe.config
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy1\Login\Login\obj\Debug\Login.exe
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy1\Login\Login\obj\Debug\Login.pdb
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy1\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy1\Login\Login\obj\Debug\Login.Apeal_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy1\Login\Login\obj\Debug\Login.Assistance_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy1\Login\Login\obj\Debug\Login.Change_Apeal_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy1\Login\Login\obj\Debug\Login.Change_Password.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy1\Login\Login\obj\Debug\Login.Control_Pannel.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy1\Login\Login\obj\Debug\Login.District_Sectotarial_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy1\Login\Login\obj\Debug\Login.Form1.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy1\Login\Login\obj\Debug\Login.Grama_niladhari_control_pannel.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy1\Login\Login\obj\Debug\Login.Grama_Niladhari_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy1\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy1\Login\Login\obj\Debug\Login.Voter_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy1\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy1\Login\Login\bin\Debug\Login.exe
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy1\Login\Login\bin\Debug\Login.pdb
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy1\Login\Login\obj\Debug\Login.Candidate_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy1\Login\Login\obj\Debug\Login.Wacher_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy1\Login\Login\obj\Debug\Login.Change_Password_District_Officer.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy1\Login\Login\obj\Debug\Login.District_Sectotarial_Control_Pannel.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\bin\Debug\Login.exe.config
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.exe
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.pdb
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\bin\Debug\Login.exe
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\bin\Debug\Login.pdb
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.Apeal_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.Assistance_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.Candidate_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.Change_Apeal_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.Change_Password.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.Change_Password_District_Officer.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.Control_Pannel.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.District_Sectotarial_Control_Pannel.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.District_Sectotarial_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.Form1.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.Grama_niladhari_control_pannel.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.Grama_Niladhari_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.Voter_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.Wacher_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.Counting_Officer_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.Change_Counting_Officer_Password.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.National_List_Seat.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.Change_Final_Result.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.Provincal_Legislate.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.Regional_List_Seat.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.Final_Result.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.Meadia_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.Returning_Officer_Details.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.Change_Returning_Officer_Password.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.Counting_Officer_Control_Pannel.resources
+E:\HNDBIS_PROJECT\ELECTION_SYSTEM20190526 - Copy2 - Correct Original Work Area\Login\Login\obj\Debug\Login.Returning_Officer_Control_Pannel.resources
+C:\Users\randiika\Desktop\Assienments\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\bin\Debug\Login.exe.config
+C:\Users\randiika\Desktop\Assienments\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.exe
+C:\Users\randiika\Desktop\Assienments\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.pdb
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\bin\Debug\Login.exe.config
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.exe
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.pdb
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\bin\Debug\Login.exe
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\bin\Debug\Login.pdb
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.Apeal_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.Assistance_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.Candidate_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.Change_Apeal_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.Change_Counting_Officer_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.Change_Final_Result.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.Change_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.Change_Password_District_Officer.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.Change_Returning_Officer_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.Counting_Officer_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.Counting_Officer_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.District_Sectotarial_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.District_Sectotarial_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.Final_Result.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.Form1.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.Grama_niladhari_control_pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.Grama_Niladhari_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.Meadia_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.National_List_Seat.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.Provincal_Legislate.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.Regional_List_Seat.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.Returning_Officer_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.Returning_Officer_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.Voter_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.Wacher_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20190601\ELECTION_SYSTEM20190601\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe.config
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.exe
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.pdb
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.pdb
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Apeal_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Assistance_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Candidate_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Apeal_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Counting_Officer_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Final_Result.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password_District_Officer.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Returning_Officer_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Result.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Form1.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_niladhari_control_pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_Niladhari_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Meadia_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.National_List_Seat.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Provincal_Legislate.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Regional_List_Seat.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Wacher_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200225\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.voter.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe.config
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.exe
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.pdb
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.pdb
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Apeal_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Assistance_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Candidate_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Apeal_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Counting_Officer_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Final_Result.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password_District_Officer.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Returning_Officer_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Result.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Form1.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_niladhari_control_pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_Niladhari_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Meadia_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.National_List_Seat.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Provincal_Legislate.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Regional_List_Seat.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.voter.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Wacher_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200226 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe.config
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.exe
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.pdb
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.pdb
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Apeal_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Assistance_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Candidate_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Apeal_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Counting_Officer_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Final_Result.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password_District_Officer.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Returning_Officer_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Result.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Form1.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_niladhari_control_pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_Niladhari_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Meadia_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.National_List_Seat.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Provincal_Legislate.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Regional_List_Seat.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.voter.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Wacher_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Graph.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Data.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Last_Years_Result.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Partys.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Commisioner_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Commitioner_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200227 - Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Commissioner_Control_Panel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe.config
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.exe
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.pdb
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.pdb
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Apeal_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Assistance_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Candidate_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Commitioner_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Apeal_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Counting_Officer_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Final_Result.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password_District_Officer.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Returning_Officer_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Commisioner_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Commissioner_Control_Panel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Data.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Graph.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Result.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Form1.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_niladhari_control_pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_Niladhari_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Last_Years_Result.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Meadia_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.National_List_Seat.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Partys.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Provincal_Legislate.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Regional_List_Seat.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.voter.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Wacher_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200228 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe.config
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.exe
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.pdb
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.pdb
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Apeal_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Assistance_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Candidate_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Commitioner_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Apeal_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Counting_Officer_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Final_Result.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password_District_Officer.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Returning_Officer_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Commisioner_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Commissioner_Control_Panel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Data.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Graph.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Result.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Form1.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_niladhari_control_pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_Niladhari_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Last_Years_Result.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Meadia_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.National_List_Seat.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Partys.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Provincal_Legislate.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Regional_List_Seat.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.voter.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Wacher_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200229 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe.config
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.exe
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.pdb
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.pdb
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Apeal_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Assistance_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Candidate_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Commitioner_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Apeal_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Counting_Officer_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Final_Result.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password_District_Officer.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Returning_Officer_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Commisioner_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Commissioner_Control_Panel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Data.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Graph.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Result.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Form1.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_niladhari_control_pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_Niladhari_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Last_Years_Result.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Meadia_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.National_List_Seat.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Partys.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Provincal_Legislate.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Regional_List_Seat.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.voter.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Wacher_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Support_the_report.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Generated_Report.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.The_Report.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Metro.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200230 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Show_Report_Data.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe.config
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.exe
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.pdb
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.pdb
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Apeal_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Assistance_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Candidate_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Commitioner_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Apeal_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Counting_Officer_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Final_Result.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password_District_Officer.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Returning_Officer_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Commisioner_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Commissioner_Control_Panel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Data.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Graph.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Result.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Form1.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Generated_Report.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_niladhari_control_pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_Niladhari_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Last_Years_Result.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Meadia_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Metro.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.National_List_Seat.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Partys.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Provincal_Legislate.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Regional_List_Seat.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Show_Report_Data.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Support_the_report.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.The_Report.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.voter.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Wacher_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200301 -  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe.config
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.exe
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.pdb
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.pdb
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Apeal_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Assistance_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Candidate_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Commitioner_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Apeal_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Counting_Officer_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Final_Result.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password_District_Officer.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Returning_Officer_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Commisioner_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Commissioner_Control_Panel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Data.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Graph.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Result.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Form1.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Generated_Report.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_niladhari_control_pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_Niladhari_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Last_Years_Result.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Meadia_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Metro.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.National_List_Seat.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Partys.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Provincal_Legislate.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Regional_List_Seat.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Show_Report_Data.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Support_the_report.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.The_Report.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.voter.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Wacher_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003002-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe.config
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.exe
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.pdb
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.pdb
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Apeal_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Assistance_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Candidate_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Commitioner_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Apeal_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Counting_Officer_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Final_Result.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password_District_Officer.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Returning_Officer_Password.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Commisioner_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Commissioner_Control_Panel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Data.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Graph.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Result.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Form1.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Generated_Report.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_niladhari_control_pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_Niladhari_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Last_Years_Result.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Meadia_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Metro.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.National_List_Seat.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Partys.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Provincal_Legislate.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Regional_List_Seat.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Control_Pannel.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Show_Report_Data.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Support_the_report.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.The_Report.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.voter.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Wacher_Details.resources
+E:\Project\HNDBIS_PROJECT\NEWEDITION202003031-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200404-  Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe.config
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200404-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.exe
+E:\Project\HNDBIS_PROJECT\NEWEDITION20200404-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.pdb
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200404-  Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe.config
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200404-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.exe
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200404-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.pdb
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200405-  Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe.config
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200405-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.exe
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200405-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.pdb
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe.config
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.exe
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.pdb
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.pdb
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Apeal_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Assistance_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Candidate_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Commitioner_Password.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Apeal_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Counting_Officer_Password.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Final_Result.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password_District_Officer.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Returning_Officer_Password.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Commisioner_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Commissioner_Control_Panel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Control_Pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Control_Pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Control_Pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Data.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Graph.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Result.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Form1.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Generated_Report.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_niladhari_control_pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_Niladhari_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Last_Years_Result.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Meadia_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Metro.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.National_List_Seat.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Partys.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Provincal_Legislate.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Regional_List_Seat.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Control_Pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Show_Report_Data.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Support_the_report.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.The_Report.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.voter.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Wacher_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200417-  Copy\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe.config
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.exe
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.pdb
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.pdb
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Apeal_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Assistance_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Candidate_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Commitioner_Password.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Apeal_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Counting_Officer_Password.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Final_Result.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password_District_Officer.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Returning_Officer_Password.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Commisioner_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Commissioner_Control_Panel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Control_Pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Control_Pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Control_Pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Data.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Graph.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Result.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Form1.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Generated_Report.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_niladhari_control_pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_Niladhari_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Last_Years_Result.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Meadia_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Metro.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.National_List_Seat.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Partys.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Provincal_Legislate.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Regional_List_Seat.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Control_Pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Show_Report_Data.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Support_the_report.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.The_Report.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.voter.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Wacher_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200504\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe.config
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.exe
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.pdb
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.pdb
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Apeal_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Assistance_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Candidate_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Commitioner_Password.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Apeal_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Counting_Officer_Password.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Final_Result.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password_District_Officer.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Returning_Officer_Password.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Commisioner_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Commissioner_Control_Panel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Control_Pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Control_Pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Control_Pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Data.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Graph.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Result.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Form1.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Generated_Report.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_niladhari_control_pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_Niladhari_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Last_Years_Result.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Meadia_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Metro.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.National_List_Seat.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Partys.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Provincal_Legislate.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Regional_List_Seat.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Control_Pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Show_Report_Data.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Support_the_report.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.The_Report.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.voter.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Wacher_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200511\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe.config
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.exe
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.pdb
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.pdb
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Apeal_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Assistance_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Candidate_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Commitioner_Password.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Apeal_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Counting_Officer_Password.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Final_Result.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password_District_Officer.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Returning_Officer_Password.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Commisioner_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Commissioner_Control_Panel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Control_Pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Control_Pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Control_Pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Data.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Graph.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Result.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Form1.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Generated_Report.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_niladhari_control_pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_Niladhari_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Last_Years_Result.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Meadia_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Metro.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.National_List_Seat.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Partys.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Provincal_Legislate.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Regional_List_Seat.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Control_Pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Show_Report_Data.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Support_the_report.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.The_Report.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.voter.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Wacher_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200513\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe.config
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.exe
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.pdb
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.pdb
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Apeal_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Assistance_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Candidate_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Commitioner_Password.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Apeal_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Counting_Officer_Password.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Final_Result.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password_District_Officer.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Returning_Officer_Password.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Commisioner_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Commissioner_Control_Panel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Control_Pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Control_Pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Control_Pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Data.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Graph.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Result.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Form1.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Generated_Report.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_niladhari_control_pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_Niladhari_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Last_Years_Result.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Meadia_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Metro.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.National_List_Seat.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Partys.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Provincal_Legislate.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Regional_List_Seat.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Control_Pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Show_Report_Data.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Support_the_report.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.The_Report.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.voter.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Wacher_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200515\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200516\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe.config
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200516\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.exe
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEWEDITION20200516\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.pdb
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe.config
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.exe
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.pdb
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.exe
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\bin\Debug\Login.pdb
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Apeal_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Assistance_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Candidate_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Commitioner_Password.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Apeal_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Counting_Officer_Password.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Final_Result.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Password_District_Officer.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Change_Returning_Officer_Password.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Commisioner_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Commissioner_Control_Panel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Control_Pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Control_Pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Counting_Officer_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Control_Pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.District_Sectotarial_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Data.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Graph.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Final_Result.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Form1.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Generated_Report.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_niladhari_control_pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Grama_Niladhari_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Last_Years_Result.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Meadia_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Metro.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.National_List_Seat.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Partys.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Provincal_Legislate.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Regional_List_Seat.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Control_Pannel.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Returning_Officer_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Show_Report_Data.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Support_the_report.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.The_Report.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.voter.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.Wacher_Details.resources
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+E:\HNDCBIS Project 2020\HNDBIS_PROJECT\NEW FINAL EDITION 2020\ELECTION_SYSTEM202000225\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
